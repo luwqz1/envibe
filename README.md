@@ -12,4 +12,4 @@ read_dotenv()
 print(lazy.run(take("SECRET_KEY")))  # Prints some secret key
 ```
 
-✨ Yas, it's a pun, btw. FP pun!!! 🐈
+✨ Yas, it's a collaboration, btw. 🐈
