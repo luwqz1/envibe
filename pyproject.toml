@@ -11,7 +11,7 @@ keywords = [
   "environ",
   "tiny",
   "fp",
-  "fp types",
+  "functional programming",
 ]
 classifiers = [
   "Environment :: Console",
