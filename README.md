@@ -1,6 +1,6 @@
 # envibe
 
-Simple environment variables parser built on [`feils-catus`](https://github.com/LeeeeT/felis) in order to provide lazy evaluation of environment variables.
+Simple environment variables parser built on [`felis-catus`](https://github.com/LeeeeT/felis) in order to provide lazy evaluation of environment variables.
 
 Basic example:
 ```python
